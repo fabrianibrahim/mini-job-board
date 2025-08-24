@@ -1,4 +1,4 @@
-import { JobList } from "@/components/job-list";
+import { JobList } from "@/components/jobs/job-list";
 import { getJobs } from "@/lib/supabase/jobs-server";
 import { createClient } from "@/lib/supabase/server";
 import { Job } from "@/lib/types";

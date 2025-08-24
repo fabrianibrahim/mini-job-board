@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { AuthButton } from "./auth-button";
+import { AuthButton } from "./buttons/auth-button";
 import { ThemeSwitcher } from "./theme-switcher";
 import { User } from "@supabase/supabase-js/";
 

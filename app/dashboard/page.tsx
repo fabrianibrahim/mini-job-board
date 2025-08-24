@@ -1,8 +1,8 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { JobList } from "@/components/job-list";
-import { JobForm } from "@/components/job-form";
+import { JobList } from "@/components/jobs/job-list";
+import { JobForm } from "@/components/jobs/job-form";
 import { Job } from "@/lib/types";
 import {
   getUserJobs,
