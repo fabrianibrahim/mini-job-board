@@ -4,7 +4,7 @@ A mini job board application built with Next.js, Supabase, and Tailwind CSS. Use
 
 ## Live Demo
 
-**[View Live Application](https://mini-job-board-op2dgb4yw-fabrianibrahims-projects.vercel.app/)**
+**[View Live Application](https://mini-job-board-fabrianibrahim.vercel.app/)**
 
 ## Architecture Overview
 
